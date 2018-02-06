@@ -5,7 +5,8 @@ module.exports.addNote = function () {
   return 'New note';
 };
 
-// defining utility function in notes.js
+/* defining utility function in notes.js
 module.exports.add = (a, b) => {
   return a + b;
 };
+*/
