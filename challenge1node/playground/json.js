@@ -10,6 +10,7 @@
 // console.log(typeof person);
 // console.log(person);
 
+//////////////////////////////////////////////////////////////////
 /*Working with JSON
 const fs = require ('fs');
 // use this code to save a new note
@@ -28,3 +29,4 @@ var note = JSON.parse(noteString);
 console.log(typeof note);
 console.log(note.title);
 */
+////////////////////////////////////////////////////////////////////
